@@ -1,0 +1,22 @@
+
+QUESTION_ID,DOMAIN,QUESTION_TYPE,QUESTION
+1,Education,Factual,What is artificial intelligence?
+2,Education,Factual,What is machine learning?
+3,Education,Factual,What is a large language model?
+4,Education,Factual,What is Python?
+5,Education,Factual,What is a database?
+6,Education,Reasoning,Why is regular studying useful?
+7,Education,Reasoning,How can students manage their study time?
+8,Education,Reasoning,Why should we verify AI-generated answers?
+9,Education,Reasoning,How can group study help students?
+10,Education,Reasoning,What should I do if I do not understand a topic?
+11,Education,Coding,Write Python code to add two numbers.
+12,Education,Coding,Explain a Python for loop with an example.
+13,Education,Coding,Write Python code to check whether a number is even.
+14,Education,Coding,What is a Python function?
+15,Education,Coding,Explain the difference between a list and a tuple.
+16,Education,General,Give me three tips for exam preparation.
+17,Education,General,How can I improve my English vocabulary?
+18,Education,General,Explain photosynthesis in simple words.
+19,Education,General,What are the benefits of learning computer science?
+20,Education,General,Explain the importance of taking breaks while studying.
